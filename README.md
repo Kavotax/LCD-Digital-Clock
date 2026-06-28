@@ -25,4 +25,4 @@ Clone this repository directly into your local Dank Material Shell user plugins 
 
 ```bash
 cd ~/.config/DankMaterialShell/plugins/
-git clone [https://github.com/your-github-username/your-clock-repo.git](https://github.com/your-github-username/your-clock-repo.git) digitalClock
+https://github.com/Kavotax/LCD-Digital-Clock.git
