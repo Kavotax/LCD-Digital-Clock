@@ -1,0 +1,14 @@
+{
+  "id": "digitalClock",
+  "name": "LCD Digital Clock",
+  "description": "A customizable LCD digital clock desktop widget",
+  "version": "1.0.0",
+  "author": "Kavotax",
+  "type": "desktop",
+  "capabilities": ["desktop-widget", "clock"],
+  "component": "./MyWidget.qml",
+  "icon": "schedule",
+  "settings": "./MySettings.qml",
+  "requires_dms": ">=1.2.0",
+  "permissions": ["settings_read", "settings_write"]
+}
