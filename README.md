@@ -26,3 +26,6 @@ Clone this repository directly into your local Dank Material Shell user plugins 
 ```bash
 cd ~/.config/DankMaterialShell/plugins/
 git clone https://github.com/Kavotax/LCD-Digital-Clock.git
+
+```
+If the font is not the correct one restart the shell with `dms restart`
