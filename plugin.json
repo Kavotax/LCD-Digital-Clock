@@ -6,7 +6,7 @@
   "author": "Kavotax",
   "type": "desktop",
   "capabilities": ["desktop-widget", "clock"],
-  "component": "./LCDDigitalClockSettings.qml",
+  "component": "./LCDDigitalClockWidget.qml",
   "icon": "schedule",
   "settings": "./LCDDigitalClockSettings.qml",
   "requires_dms": ">=1.2.0",
