@@ -2,7 +2,7 @@
 
 A retro-styled digital clock widget featuring accurate LCD 7-segment and 14-segment simulation layouts. Built natively for **Dank Material Shell** using Quickshell and tailored for Niri.
 
-![Digital Clock Widget Layout](./screenshot.png)
+![Digital Clock Widget Layout](./LCDClockScreenShot.jpeg)
 
 ## Features
 
